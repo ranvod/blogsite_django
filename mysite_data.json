@@ -1,0 +1,898 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-04-14T15:35:28.962Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "1",
+    "object_repr": "admin",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-04-14T15:54:01.839Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Django, what is this?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-04-14T16:04:21.981Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "da i sa prosto dududud",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-04-14T17:23:11.993Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "da i sa prosto dududud",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-04-14T17:23:36.668Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "nananddnnan",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-04-14T17:23:43.187Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "nananddnnan",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-04-14T17:23:53.535Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "adadnkajwndwa",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-04-18T17:25:38.363Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "jazz",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"tagged item\", \"object\": \"Django, what is this? tagged with jazz\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-04-18T17:25:56.304Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Django, what is this?",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-04-18T17:26:11.374Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Django, what is this?",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-04-18T17:40:50.570Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "da i sa prosto dududud",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-04-18T18:05:51.381Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Mehabet-piala",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-04-18T18:43:42.015Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Django-site",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-04-18T18:44:57.040Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Django-site",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-04-18T18:45:16.599Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Djan",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-04-18T18:46:25.461Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Djan",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\", \"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-04-18T19:01:02.412Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$8XBfXjhlbFRSPcaHII1twY$KdQnRtrTAzx53D5rejzD3WoZJaD/ch0dYIAV9E/FJhc=",
+    "last_login": "2024-04-14T16:01:23.474Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "Егор",
+    "last_name": "",
+    "email": "smolenskiair@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-04-14T15:33:55Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "5lzkjuiwkiil4v26n0q36lmcyvhrpvub",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSE8nCG4dO83kGEAqRpISrtq_Hdt0oVu7znnbiLQutSwjjyHKYmL0OL0u0XiZ247SA9q9y65t2WeotwVedAhbz3l1_Vw_w4qjfqtOZtoMBbW4K1V7IDYeKXPWltAtKiJEhQE8g48cCmuWBMtG1U8YxTvD9NjN5k:1rw2IF:nXoayVmIIseDz5D-IZIr4j-UgaTEeaoal8KHV4w7NBs",
+    "expire_date": "2024-04-28T16:01:23.488Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ftmgaa6i85fe9vzpxmjuu1uzo6xt0k42",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSE8nCG4dO83kGEAqRpISrtq_Hdt0oVu7znnbiLQutSwjjyHKYmL0OL0u0XiZ247SA9q9y65t2WeotwVedAhbz3l1_Vw_w4qjfqtOZtoMBbW4K1V7IDYeKXPWltAtKiJEhQE8g48cCmuWBMtG1U8YxTvD9NjN5k:1rw1sw:FtIQzKT8ZxA5HSGz21u9La1UiPg1a75CvWKtzx8h2DM",
+    "expire_date": "2024-04-28T15:35:14.484Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Django, what is this?",
+    "slug": "djangowhat",
+    "author": 1,
+    "body": "django is a web-framework",
+    "publish": "2024-04-14T15:53:40Z",
+    "created": "2024-04-14T15:54:01.836Z",
+    "updated": "2024-04-18T17:26:11.368Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "da i sa prosto dududud",
+    "slug": "da-i-sa-prosto-dududud",
+    "author": 1,
+    "body": "pavapepagemabody",
+    "publish": "2024-04-14T16:03:43Z",
+    "created": "2024-04-14T16:04:21.976Z",
+    "updated": "2024-04-18T17:40:50.559Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "nananddnnan",
+    "slug": "nananddnnan",
+    "author": 1,
+    "body": "afkbebfkjkjfsfnskjef",
+    "publish": "2024-04-14T17:23:25Z",
+    "created": "2024-04-14T17:23:36.661Z",
+    "updated": "2024-04-14T17:23:43.182Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "adadnkajwndwa",
+    "slug": "adadnkajwndwa",
+    "author": 1,
+    "body": "adwhbdhabdja",
+    "publish": "2024-04-14T17:23:44Z",
+    "created": "2024-04-14T17:23:53.532Z",
+    "updated": "2024-04-14T17:23:53.532Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Mehabet-piala",
+    "slug": "mehabet-piala",
+    "author": 1,
+    "body": "son atasan atasan",
+    "publish": "2024-04-18T18:05:07Z",
+    "created": "2024-04-18T18:05:51.373Z",
+    "updated": "2024-04-18T18:05:51.373Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Djan",
+    "slug": "django-site",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n--------------------------------------\r\n*This is emphasized* and **this is more emphasized**.\r\n\r\nHere is a list:\r\n* One\r\n* Two\r\n* Three\r\n\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+    "publish": "2024-04-18T18:43:34Z",
+    "created": "2024-04-18T18:43:41.996Z",
+    "updated": "2024-04-18T18:46:25.448Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 2,
+    "name": "Егор",
+    "email": "smolenskiair@gmail.com",
+    "body": "НУ ты ДАЁШЬ, ЧУВАК РЕАЛЬНЫЙ КРИНЖ БРО",
+    "created": "2024-04-16T18:57:51.755Z",
+    "updated": "2024-04-16T18:57:51.755Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 2,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 3,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+}
+]
